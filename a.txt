@@ -1,0 +1,2 @@
+test git rm --cached and git checkout --file
+hahaha
